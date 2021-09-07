@@ -1,0 +1,1 @@
+pyuic5 -x C:\Users\grejd\Desktop\pyqt5prog\form.ui -o C:\Users\grejd\Desktop\pyqt5prog\form.py

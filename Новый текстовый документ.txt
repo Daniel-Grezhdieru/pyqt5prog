@@ -1,0 +1,6 @@
+u^2 + 2*u + 1 + 1 * e^(-u) + 0,5 * e^(-10*u)
+
+pyinstaller Report.py —onefile
+
+сконвертируй ui в py через "pyuic5 ui.ui -o ui.py" 
+и импортируй как обычный файл
